@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="zmeika/zmeika.vcxproj" Id="7d80ea14-e08c-4128-8bf0-05a41dc21f74" />
+</Solution>
